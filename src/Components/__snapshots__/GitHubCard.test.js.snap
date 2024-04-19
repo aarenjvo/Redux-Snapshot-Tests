@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot of GitHubCard 1`] = `
+<div>
+  <h1 />
+  <img
+    alt="profile"
+    src=""
+  />
+  <p>
+    <a
+      href=""
+      target="blank"
+    >
+      Profile
+    </a>
+  </p>
+</div>
+`;
